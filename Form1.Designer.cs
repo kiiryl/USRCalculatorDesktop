@@ -295,6 +295,7 @@
             this.button26.TabIndex = 25;
             this.button26.Text = "x!";
             this.button26.UseVisualStyleBackColor = true;
+            this.button26.Click += new System.EventHandler(this.FactorialButton);
             // 
             // textBox2
             // 

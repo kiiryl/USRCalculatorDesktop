@@ -9,3 +9,14 @@ D:\GRSU\Programming\Labs\UsrCalculatorImba\obj\Debug\UsrCalculatorImba.csproj.Co
 D:\GRSU\Programming\Labs\UsrCalculatorImba\obj\Debug\UsrCalculatorImba.exe
 D:\GRSU\Programming\Labs\UsrCalculatorImba\obj\Debug\UsrCalculatorImba.pdb
 D:\GRSU\Programming\Labs\UsrCalculatorImba\obj\Debug\UsrCalculatorImba.exe.config
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\bin\Debug\UsrCalculatorImba.exe.config
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\bin\Debug\UsrCalculatorImba.exe
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\bin\Debug\UsrCalculatorImba.pdb
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\obj\Debug\UsrCalculatorImba.csproj.AssemblyReference.cache
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\obj\Debug\UsrCalculatorImba.exe.config
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\obj\Debug\UsrCalculatorImba.Form1.resources
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\obj\Debug\UsrCalculatorImba.Properties.Resources.resources
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\obj\Debug\UsrCalculatorImba.csproj.GenerateResource.cache
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\obj\Debug\UsrCalculatorImba.csproj.CoreCompileInputs.cache
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\obj\Debug\UsrCalculatorImba.exe
+D:\GRSU\Programming\Labs\USRCalculatorDesktop\obj\Debug\UsrCalculatorImba.pdb
